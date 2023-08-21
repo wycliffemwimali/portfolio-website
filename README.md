@@ -6,15 +6,18 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
+<img src="![port](https://github.com/wycliffemwimali/portfolio-website/assets/99508839/ec48793f-15e2-41e5-bd15-9bb0d8cf9e62)
+" width="900">
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
+<img src="![about](https://github.com/wycliffemwimali/portfolio-website/assets/99508839/aad025c1-66f1-46e1-a73a-1e5255a1fcf9)
+" width="900">
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
+<img src="![projects](https://github.com/wycliffemwimali/portfolio-website/assets/99508839/367f036c-3b0d-4df7-a59e-c4688f4d294d)
+" width="900">
   
 
 
