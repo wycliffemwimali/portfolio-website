@@ -11,13 +11,13 @@
 
 
 #### About Page
-<img src="![about](https://github.com/wycliffemwimali/portfolio-website/assets/99508839/aad025c1-66f1-46e1-a73a-1e5255a1fcf9)
-" width="900">
+![about](https://github.com/wycliffemwimali/portfolio-website/assets/99508839/aad025c1-66f1-46e1-a73a-1e5255a1fcf9)
+
 
 
 #### Projects Page
-<img src="![projects](https://github.com/wycliffemwimali/portfolio-website/assets/99508839/367f036c-3b0d-4df7-a59e-c4688f4d294d)
-" width="900">
+![projects](https://github.com/wycliffemwimali/portfolio-website/assets/99508839/367f036c-3b0d-4df7-a59e-c4688f4d294d)
+
   
 
 
