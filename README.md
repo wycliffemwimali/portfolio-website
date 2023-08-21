@@ -6,8 +6,8 @@
 
 ### Website Preview
 #### Home Page
-<img src="![port](https://github.com/wycliffemwimali/portfolio-website/assets/99508839/ec48793f-15e2-41e5-bd15-9bb0d8cf9e62)
-" width="900">
+![port](https://github.com/wycliffemwimali/portfolio-website/assets/99508839/ec48793f-15e2-41e5-bd15-9bb0d8cf9e62)
+
 
 
 #### About Page
